@@ -1,0 +1,24 @@
+# Build artifacts
+*.o
+*.exe
+log_analyzer
+
+# Test data and logs
+test.log
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
